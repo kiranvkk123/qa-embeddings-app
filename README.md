@@ -139,9 +139,5 @@ The basic structure of the project is as follows:
 3. Type a question related to your knowledge base in the input box.
 4. The app will search for the most relevant document in the Pinecone index and generate a response based on that document using OpenAI's model.
 
-## Conclusion
-This project showcases how to integrate Pinecone (a vector database) and OpenAI to build an intelligent question-answering system. It demonstrates how to store text embeddings in Pinecone, perform a similarity search, and use OpenAI to refine the responses. You can expand the knowledge base and improve the system by adding more documents and fine-tuning the responses.
 
----
 
-Let me know if you'd like to add more details or further customize this README!
